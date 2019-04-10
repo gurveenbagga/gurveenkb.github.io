@@ -280,9 +280,9 @@ input.input100 {
 
 
 /*//////////////////////////////////////////////////////////////////
-[ Background ]*/
+[ Background ]
 .bg0 {background-color: #fff;}
-.bg1 {background-color: rgba(255,255,255,0.8);}
+.bg1 {background-color: rgba(255,255,255,0.8);}*/
 
 .bg-img1 {
   background-position: center;
@@ -332,11 +332,11 @@ input.input100 {
   height: 100%;
   top: 0;
   left: 0;
-  background: #61045f;
-  background: -webkit-linear-gradient(bottom, #aa076b, #61045f);
-  background: -o-linear-gradient(bottom, #aa076b, #61045f);
-  background: -moz-linear-gradient(bottom, #aa076b, #61045f);
-  background: linear-gradient(bottom, #aa076b, #61045f);
+  background: #82acff;
+  background: -webkit-linear-gradient(bottom, #ff5d9e, #82acff);
+  background: -o-linear-gradient(bottom, #ff5d9e, #82acff);
+  background: -moz-linear-gradient(bottom, #ff5d9e, #82acff);
+  background: linear-gradient(bottom, #ff5d9e, #82acff);
   opacity: 0.9;
 }
 
